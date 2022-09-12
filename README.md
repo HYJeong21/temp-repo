@@ -1,7 +1,7 @@
 # temp-repo
 
 
-<week2>
+## week2
 
 main과 내용이 똑같은 branch를 만들어서 그 안에서 새로운 작업을 할 수 있다.
   
